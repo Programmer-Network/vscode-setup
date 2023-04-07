@@ -1,0 +1,17 @@
+[
+  {
+    "_id": "e5eee4f6-a670-4e74-9a68-563f579d0b12",
+    "colName": "Programmer Network API v1.0",
+    "created": "2023-04-07T11:42:08.808Z",
+    "sortNum": 10000,
+    "folders": [
+      {
+        "_id": "f03a0775-ef38-455c-b9fd-4a07777cd818",
+        "name": "todo",
+        "containerId": "",
+        "created": "2023-04-07T11:42:20.019Z",
+        "sortNum": 10000
+      }
+    ]
+  }
+]

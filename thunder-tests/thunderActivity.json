@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "92b8d4ee-4af1-45bb-8802-7379e32f1a91",
+    "colId": "history",
+    "containerId": "",
+    "name": "https://jsonplaceholder.typicode.com/todos/1",
+    "url": "https://jsonplaceholder.typicode.com/todos/1",
+    "method": "GET",
+    "sortNum": 0,
+    "created": "2023-04-07T11:41:36.234Z",
+    "modified": "2023-04-07T11:41:36.234Z",
+    "headers": [],
+    "params": [],
+    "tests": []
+  }
+]
